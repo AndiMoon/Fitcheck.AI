@@ -1,0 +1,6 @@
+{
+  "name": "FitCheck AI",
+  "description": "Instant outfit analyzer, aesthetic vibe detector, and Gen Z closet stylist powered by Gemini visual AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
